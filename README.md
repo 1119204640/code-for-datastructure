@@ -1,1 +1,3 @@
-# code-for-datastructure
+# 考研数据结构代码
+## 线性表
+### 顺序表
